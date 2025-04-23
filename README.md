@@ -2,7 +2,7 @@
 
 Video/GIF to Sprite Sheet for use as animated VRChat emoji's. 
 
-This script will automatically batch process the file extensions `.gif`, `.mp4`, `.avi`, `.mov`, or `.mkv` into an 8x8 sprite sheet compatible with VRChat's web emoji uploader. It is recommended that input videos be short in length as an 8x8 sprite sheet will be a **maximum of 64 frames**. The script will attempt to skip frames to hit the maximum 64 frames. It will also create the correct output filename to upload to VRChat with automatic Frame/FPS detection.
+This script will automatically batch process the file extensions `.gif`, `.mp4`, `.avi`, `.mov`, or `.mkv` into 8x8 sprite sheets compatible with VRChat's web emoji uploader. It is recommended that input videos be short in length as an 8x8 sprite sheet will be a **maximum of 64 frames**. The script will attempt to skip frames to hit the maximum 64 frames. It will also create the correct output filename to upload to VRChat with automatic Frame/FPS detection.
 
 ## Usage
 ### Windows
