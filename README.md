@@ -6,9 +6,9 @@ This script will automatically batch process the file extensions `.gif`, `.mp4`,
 
 ## Usage
 ### Windows
-1. Place v2s.exe into a folder
+1. Place `v2s.exe` into a folder
 2. Place movie files with supported extensions into the same folder
-3. Run v2s.exe
+3. Run `v2s.exe`
 
 All files will be batch processed and all original files will be placed into a folder called `originals`. All processed sprite sheets will be placed into a folder called `spritesheets`.
 
