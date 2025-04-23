@@ -6,9 +6,9 @@ This script will automatically batch process the file extensions `.gif`, `.mp4`,
 
 ## Usage
 ### Windows
-1. Place v2s.exe into a folder.
-2. Place movie files with supported extensions into the same folder.
-3. Run v2s.exe.
+1. Place v2s.exe into a folder
+2. Place movie files with supported extensions into the same folder
+3. Run v2s.exe
 
 All files will be batch processed and all original files will be placed into a folder called `originals`. All processed sprite sheets will be placed into a folder called `spritesheets`.
 
@@ -18,12 +18,12 @@ All files will be batch processed and all original files will be placed into a f
 - Python >3.13.3
 - PIP
 
-1. Clone repo.
+1. Clone the repository
 2. Install the requirements   
 ```
 pip install -r requirements.txt
 ```
-3. Place movie files with a supported extension into the same folder.
+3. Place movie files with a supported extension into the same folder
 4. Run the script   
 ```
 python v2s.py
