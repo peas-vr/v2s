@@ -15,7 +15,7 @@ All files will be batch processed and all original files will be placed into a f
 ### Linux
 
 #### Prereqsuisites
-- Python >3.13.3
+- Python >3.13
 - PIP
 
 1. Clone the repository
@@ -34,4 +34,4 @@ All files will be batch processed and all original files will be placed into a f
 ## VRChat
 It is **REQUIRED** to have an active VRChat+ subscription to use this feature.
 
-Once you have processed sprite sheets, you can upload the individual sprite sheets on the VRChat website by going to `Gallery -> Emoji -> Upload Emoji`. At this time you must check the box `Enable Sprite Sheet Mode [BETA]` before uploading.
+Once you have processed sprite sheets, you can upload the individual sprite sheets on the VRChat website by going to `Gallery -> Emoji -> Upload Emoji`. At this time you must check the box `Enable Sprite Sheet Mode [BETA]` before uploading. Derived FPS during processing may not always be accurate and it may be preferred to play at a higher or lower speed by moving the "FPS" slider on VRChat emoji sprite sheet upload.
